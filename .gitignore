@@ -1,0 +1,14 @@
+README-ORIG.md
+
+.idea/
+.vscode/
+
+# macos file system
+.DS_Store
+
+# cmake
+cmake-build-debug/
+CMakeLists.txt
+
+# Binary C++ files
+*.out
